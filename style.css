@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+}
+
+section{
+    display: flex;
+}
+
+.box{
+
+        background-color: aqua;
+        border: 5px solid black;
+        margin: 50px;
+        height: 500px;
+        width: 1000px;
+        background-color: grey;
+        text-align: center;
+}
+
+
+h3{
+   
+    text-align: center;
+    background-color: grey;
+    
+}
+.container-fluid{
+    background-color: grey;
+    color: black;
+}
+
+.button.btn.btn-default.dropdown-toggle{
+    align-items: end;
+}
+
+element.style {
+}
+.btn-group>.btn:first-child {
+    margin-left: 999px;
+    margin-top: 10px;
+    background-color: grey;
+}
